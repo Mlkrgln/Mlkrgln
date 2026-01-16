@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=melikekaraoglan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E76F00&width=435&lines=Write+Once%2C+Run+Anywhere!" alt="Typing SVG" /></a>
----
+
 
 ## 👩‍💻 About Me
 I am a Computer Engineering graduate born in Adana, Turkey.  
