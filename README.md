@@ -8,7 +8,7 @@
 
 
 ## 👩‍💻 About Me
-I am a Computer Engineering graduate born in Adana, Turkey.  
+I am a Computer Engineering.  
 I specialize in **Java & Spring Boot–based enterprise backend development** with strong experience in **banking, public sector, ERP, healthcare, and document management systems**.
 
 I have worked extensively with **microservice, SOA, and monolithic architectures**, focusing on **clean code, sustainable system design, and team collaboration**.  
