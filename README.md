@@ -121,15 +121,6 @@ Atatürk University (2012 – 2017)
 
 ---
 
-## 🎨 Hobbies & Interests
-- Reading and building a personal book collection
-- Kick-box training (1+ year)
-- Pencil sketching & anime character drawings
-- Traveling, museums, and archaeological sites
-- Supporting and caring for street animals
-
----
-
 ## 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/melike-karaoğlan-59bb34124/
 - 📧 Email: melikekaraoglan@outlook.com
