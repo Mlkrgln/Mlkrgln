@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=melikekaraoglan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E76F00&center=true&vCenter=true&random=true&width=435&lines=Write+Once%2C+Run+Anywhere!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E76F00&center=true&vCenter=true&width=435&lines=Write+Once%2C+Run+Anywhere!" alt="Typing SVG" /></a>
 
 
 ## 👩‍💻 About Me
